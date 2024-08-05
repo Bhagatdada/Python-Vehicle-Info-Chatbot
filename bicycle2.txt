@@ -1,0 +1,18 @@
+You: price
+Bot: Could you please re-phrase that? 
+You: sa;d
+Bot: Did you mean something else? 
+You: model
+Bot: The Bicycle is available in 3 models
+	model 1:Ranger-a:7000
+	model 2:Ranger-b:7300
+	model 3:Ranger-c:7500
+You: price
+Bot: 7000 onwards 
+You: cost
+Bot: 7000 onwards
+You: models
+Bot: The Bicycle is available in 3 models
+	model 1:Ranger-a:7000
+	model 2:Ranger-b:7300
+	model 3:Ranger-c:7500

@@ -1,0 +1,28 @@
+You: hello
+Bot: Hello!
+You: how you doing
+Bot: I'm doing fine, and you?
+You: models
+Bot: The best models are:
+	1.Continental GT 650
+	2.Meteor 350
+	3.Interceptor 650
+	4.Himalayan
+
+You: price
+Bot: Rs.1.20,000 - Rs.1,90,000
+You: seats
+Bot: It has leather seats.
+You: fuel
+Bot: What does that mean?
+You: fuel capacity
+Bot: It has a fuel tank capacity of 13 to 13.5 litres.
+You: color
+Bot: The available colours are : 
+	1.White
+	2.Black
+	3.Silver
+	4.Blue
+	5.Red
+	6.Golden
+

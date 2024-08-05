@@ -1,0 +1,13 @@
+You: color
+Bot: Bicycle is available in two colour:
+1.black
+2.white 
+You: price
+Bot: 25000 onwards 
+You: gear
+Bot: What does that mean?
+You: gears
+Bot: What does that mean?
+You: how many gears
+Bot: Bicycle have gears 18 gears 3 in front and 6 in rear when electric motor is not in use
+

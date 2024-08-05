@@ -1,0 +1,7 @@
+You: fuel
+Bot: It has a fuel tank capacity of 37 litres.
+You: model
+Bot: Models available are 
+	1.Swift Dzire LXI
+	2.Swift Dzire VXI
+	3.Swift Dzire ZXI

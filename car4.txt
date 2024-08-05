@@ -1,0 +1,11 @@
+You: available in petrol
+Bot: The available colours are : 
+1.White
+2.Black
+3.Silver
+4.Blue
+5.Brown
+You: petrol
+Bot: It is available in both petrol and deisel. 
+You: is it available in petrol
+Bot: It is available in both petrol and deisel. 

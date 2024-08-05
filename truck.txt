@@ -1,0 +1,28 @@
+You: fuel
+Bot: It has a fuel tank capacity of 35 litres.
+You: petrol
+Bot: Oops, It is only available in diesel
+You: disel
+Bot: Could you please re-phrase that? 
+You: diesel
+Bot: Yes, It is available in diesel.   
+You: color
+Bot: What does that mean?
+You: colour
+Bot: What does that mean?
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: fuel
+Bot: It has a fuel tank capacity of 35 litres.
+You: automatic
+Bot: It is a manual vehicle. 
+You: service
+Bot: For getting your vehicle serviced, please visit our website:
+	https://smalltrucks.tatamotors.com/product/intra/tata-intra-v50
+
